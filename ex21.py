@@ -25,7 +25,7 @@ iq = divide(100, 2)
 print "Age: %d, Height: %d, Weight: %d, IQ: %d" % (age, height, weight, iq)
 
 
-# A puzzle for the extra credit, type it in anyway.
+# Zed's puzzle
 print "Here is a puzzle."
 
 what = add(age, subtract(height, multiply(weight, divide(iq, 2))))
